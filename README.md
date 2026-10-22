@@ -159,3 +159,5 @@ The session is a 30-minute presentation followed by 30 minutes of Q&A with the h
 The brief is intentionally incomplete. Please state any assumptions you make, and feel free to email the recruiter with questions before the session.
 
 You may use AI tools during your preparation, as you would in your day-to-day work. However, please be prepared to explain and justify every decision.
+
+The brief asks for no code, but if you would rather share your slides, diagrams or notes through a repository, please keep it private and grant access to [daniel-rosiak](https://github.com/daniel-rosiak) and [ivansinitsyn-cmy](https://github.com/ivansinitsyn-cmy).
